@@ -1,0 +1,22 @@
+{
+  "name": "ai-bot",
+  "version": "1.0.0",
+  "description": "This bot give an opportunity to interact with ChatGPT in your discord server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "bot",
+    "discord.js",
+    "chatGPT",
+    "discord"
+  ],
+  "author": "Gordin R.A.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
